@@ -9,15 +9,6 @@ The **Micromouse Simulator (mms)** is a Python-based tool for developing and tes
 
 ### 🚀 **Features**  
 - 🧩 Customizable mazes.  
-- 🤖 Test algorithms like left-hand rule or floodfill.  
-- 💻 Lightweight and user-friendly interface.  
-
+- 🤖 Test algorithms like left-hand rule , right rule and floodfill.
+- 
 ---
-
-### 🤝 **Contributing**  
-Fork, improve, and submit a pull request! Let's build together. 💡  
-
----
-
-### 📜 **License**  
-Licensed under the [MIT License](LICENSE). 🌍  
