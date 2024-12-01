@@ -6,6 +6,7 @@ from constants import *
 from Algorithms.Floodfill import FloodFill
 from Algorithms.RightHand import RightHandRule
 from Algorithms.LeftHand import LeftHandRule
+from Algorithms.DFS import DFSRule
 
 
 def color_center():
@@ -30,7 +31,8 @@ def main():
     #floodfill = FloodFill()
     #leftHandRule = LeftHandRule()
     #rightHandRule = RightHandRule()
-
+    dfs_algorithm = DFSRule()
+    dfs_algorithm.execute()
 
     #floodfill.execute()
     #leftHandRule.execute()
